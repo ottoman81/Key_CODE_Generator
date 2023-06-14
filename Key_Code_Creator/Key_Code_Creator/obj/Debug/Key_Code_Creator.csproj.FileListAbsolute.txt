@@ -1,0 +1,9 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\Key_Code_Creator\Key_Code_Creator\bin\Debug\Key_Code_Creator.exe.config
+c:\users\batuhan\documents\visual studio 2015\Projects\Key_Code_Creator\Key_Code_Creator\bin\Debug\Key_Code_Creator.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Key_Code_Creator\Key_Code_Creator\bin\Debug\Key_Code_Creator.pdb
+c:\users\batuhan\documents\visual studio 2015\Projects\Key_Code_Creator\Key_Code_Creator\obj\Debug\Key_Code_Creator.csprojResolveAssemblyReference.cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Key_Code_Creator\Key_Code_Creator\obj\Debug\Key_Code_Creator.Form1.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\Key_Code_Creator\Key_Code_Creator\obj\Debug\Key_Code_Creator.Properties.Resources.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\Key_Code_Creator\Key_Code_Creator\obj\Debug\Key_Code_Creator.csproj.GenerateResource.Cache
+c:\users\batuhan\documents\visual studio 2015\Projects\Key_Code_Creator\Key_Code_Creator\obj\Debug\Key_Code_Creator.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\Key_Code_Creator\Key_Code_Creator\obj\Debug\Key_Code_Creator.pdb
